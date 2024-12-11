@@ -4,18 +4,18 @@ Avem sarcina de a realiza o aplicație dedicată organizării de evenimente.Acea
 
   Aspecte de urmat în realizarea aplicației:
 1.	Căutare și rezervare locații:
-o	Găsește locații disponibile într-o gamă variată de categorii (restaurante, săli de conferințe, grădini, etc.).
-o	Filtrează locațiile în funcție de capacitate, preț, stil și facilități (parcare, echipamente audio-video, catering, etc.).
-o	Consultă disponibilitatea în timp real și rezervă locația preferată direct din aplicație.
+-	Găsește locații disponibile într-o gamă variată de categorii (restaurante, săli de conferințe, grădini, etc.).
+-	Filtrează locațiile în funcție de capacitate, preț, stil și facilități (parcare, echipamente audio-video, catering, etc.).
+-	Consultă disponibilitatea în timp real și rezervă locația preferată direct din aplicație.
 2.	Planificare eveniment:
-o	Creează și gestionează lista de invitați.
-o	Setează bugetul evenimentului 
-o	Acces la furnizori de servicii – catering, decorațiuni, fotografi, DJ și alți profesioniști din industrie.
+-	Creează și gestionează lista de invitați.
+-	Setează bugetul evenimentului 
+-	Acces la furnizori de servicii – catering, decorațiuni, fotografi, DJ și alți profesioniști din industrie.
 3.	Colaborare în timp real:
-o	Invită colaboratori sau co-organizatori pentru a lucra împreună la planificarea evenimentului.
+-	Invită colaboratori sau co-organizatori pentru a lucra împreună la planificarea evenimentului.
 4.	Gestionarea evenimentului:
-o	Crează un program detaliat al evenimentului, cu ore dedicate fiecărui moment important (de exemplu, primirea invitaților, discursuri, momente artistice).
+-	Crează un program detaliat al evenimentului, cu ore dedicate fiecărui moment important (de exemplu, primirea invitaților, discursuri, momente artistice).
 5.	Evaluări și recenzii:
-o	Citește recenzii și recomandări de la alți organizatori despre locații și furnizori.
-o	Lasă propriile evaluări pentru a ajuta viitorii utilizatori să ia decizii informate.
+-	Citește recenzii și recomandări de la alți organizatori despre locații și furnizori.
+-	Lasă propriile evaluări pentru a ajuta viitorii utilizatori să ia decizii informate.
 Aplicația ofera toate resursele necesare realizării unui eveniment într-un singur loc. Fiecare eveniment este unic, iar utilizatorului îi sunt oferite diferite opțiuni care îi permit personalizarea și planificarea evenimentului după bunul plac. Aceste funcționalități și beneficii oferă utilizatorului o imagine clară asupra modului în care aplicația facilitează planificarea evenimentelor de success, fără a implica stresul unei organizări tradiționale.
