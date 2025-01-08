@@ -1,5 +1,5 @@
-#ifndef EVENTS_H
-#define EVENTS_H
+#ifndef EVENT_H
+#define EVENT_H
 #include <iostream>
 #include <string>
 #include <vector>
@@ -13,9 +13,8 @@ private:
 	string date;
 	string event_type;
 public:
-	Event() = default;
-	Event(const string& event_name,const string& date,const string& event_type)
-		:event_name(event_name), date(date), event_type(event_type){}
+	Event();
+	Event(const string& event_name, const string& date, const string& event_type);
 
 	    void displayInformations() const;
 		string getEventName() const;

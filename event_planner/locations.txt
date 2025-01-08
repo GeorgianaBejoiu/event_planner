@@ -1,6 +1,0 @@
-Restaurantul Craiova; Craiova, Catering, Live Music; 5000; 150; 50; 1; 0; 1
-Bucur's Place; Bucure?ti; Catering, DJ, Decorations; 6000; 200; 100; 1; 1; 1
-Timi?oara Bistro; Timi?oara; Catering, Conference Room; 7000; 180; 80; 0; 1; 1
-Bra?ov Mountain Retreat; Bra?ov; Catering, DJ, Decorations; 7500; 250; 100; 1; 1; 1
-Cluj Gourmet; Cluj-Napoca, Catering, Spa, DJ; 8000; 220; 120; 1; 0; 0
-La Dolce Vita;Timisoara;Catering, DJ, Decorations;7000;200;45;1;1;1

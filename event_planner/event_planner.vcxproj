@@ -127,16 +127,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="events.cpp" />
+    <ClCompile Include="event.cpp" />
     <ClCompile Include="event_planner.cpp" />
-    <ClCompile Include="locations.cpp" />
+    <ClCompile Include="location.cpp" />
+    <ClCompile Include="organizer.cpp" />
+    <ClCompile Include="provider.cpp" />
+    <ClCompile Include="switch.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="events.h" />
-    <ClInclude Include="locations.h" />
+    <ClInclude Include="event.h" />
+    <ClInclude Include="location.h" />
+    <ClInclude Include="organizer.h" />
+    <ClInclude Include="provider.h" />
+    <ClInclude Include="switch.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="locations.txt" />
+    <Text Include="location.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

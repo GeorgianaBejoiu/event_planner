@@ -18,22 +18,40 @@
     <ClCompile Include="event_planner.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="locations.cpp">
+    <ClCompile Include="location.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="events.cpp">
+    <ClCompile Include="event.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="organizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="provider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="locations.h">
+    <ClInclude Include="location.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="events.h">
+    <ClInclude Include="event.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="organizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="provider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="switch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="locations.txt" />
+    <Text Include="location.txt" />
   </ItemGroup>
 </Project>

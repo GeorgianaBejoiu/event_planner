@@ -1,0 +1,11 @@
+Restaurantul Craiova; Craiova, Catering, Live Music; 5000; 150; 50; 1; 0; 1
+Bucur's Place; Bucuresti; Catering, DJ, Decorations; 6000; 200; 100; 1; 1; 1
+Timisoara Bistro; Timisoara; Catering, Conference Room; 7000; 180; 80; 0; 1; 1
+Brasov Mountain Retreat; Brasov; Catering, DJ, Decorations; 7500; 250; 100; 1; 1; 1
+Cluj Gourmet; Cluj-Napoca, Catering, Spa, DJ; 8000; 220; 120; 1; 0; 0
+La Dolce Vita;Timisoara;Catering, DJ, Decorations;7000;200;45;1;1;1
+Targu Mures Banquet Hall; Targu Mures; Catering, Live Music, Decorations; 6500; 230; 85; 1; 1; 1
+Bucharest Sky Lounge; Bucuresti; Catering, DJ, Spa, Decorations; 9500; 300; 150; 1; 0; 1
+Constanta Beach Resort; Constanta; Catering, Live Music, DJ; 8500; 280; 140; 1; 1; 0
+Ploiesti Royal Palace; Ploiesti; Catering, Conference Room, Decorations; 7200; 190; 75; 1; 0; 1
+Sibiu Mountain Lodge; Sibiu; Catering, DJ, Spa, Decorations; 7800; 210; 90; 1; 1; 1

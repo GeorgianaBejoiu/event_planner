@@ -1,8 +1,9 @@
-#ifndef LOCATIONS_H
-#define LOCATIONS_H
+#ifndef LOCATION_H
+#define LOCATION_H
 #include <iostream>
 #include <string>
 #include <vector>
+#include <set>
 
 using namespace std;
 
@@ -17,10 +18,10 @@ class Location
 	  int parking;
 	  bool accessibility;
 	  bool children_space;
-	  bool availability;
+	  set<string> availableDates;
   public:
-	  Location(const string& location_name, const string& address, const string& services, double budget, int capacity, int parking, bool accessibility, bool children_space, bool availability)
-		  :location_name(location_name), address(address), services(services), budget(budget), capacity(capacity), parking(parking), accessibility(accessibility), children_space(children_space), availability(availability){}
+	  Location();
+	  Location(const string& location_name, const string& address, const string& services, double budget, int capacity, int parking, bool accessibility, bool children_space);
 	  void displayInformation() const;
 	  string getLocationName() const;
 	  string getAddress() const;
@@ -30,11 +31,15 @@ class Location
 	  void setParking(int parking);
 	  void setAccessibility(bool accessibility);
 	  void setChildrenSpace(bool children_space);
-	  void setAvailability(bool availability);
+	  void addAvailableDate(const string& date);
+	  void removeAvailableDate(const string& date);
+	  bool isDateAvailable(const string& date) const;
+	  void chooseLocation();
+
+
 };
 vector <Location> readLocationFromFile(const string& fileName);//plural
 void displayLocations(const vector<Location>& locations);
-
 
 #endif// LOCATIONS_H
 
